@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
-import { HomeComponent } from './components/home/home.component';
-import { CountriesDisplayComponent } from './components/countries-display.component';//need to remove after carusel
+// import { HomeComponent } from '../app/components/home/home.component';
 
 
 

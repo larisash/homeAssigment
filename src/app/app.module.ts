@@ -28,7 +28,8 @@ const appRoutes: Routes = [
   { path: 'countries', component: CountriesDisplayComponent },
   { path: 'first-code', component: FirstCodeComponent },
   { path: 'second-code', component: SecondCodeComponent },
-  { path: 'uiux', component: UiuxComponent }
+  { path: 'uiux', component: UiuxComponent },
+  { path: '', component: HomeComponent }
 ];
 
 
