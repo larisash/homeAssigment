@@ -1,0 +1,30 @@
+
+.container{
+    background-color: salmon;
+    height:100vh;
+    
+}
+.iner-conatiner{
+    padding:30px;
+    width: 50%;
+}
+.code-continer{
+    background-color: white;
+    height: 8vh;
+    padding:50px 10px 20px 10px;
+    margin-left: 20px;
+}
+.main{
+    margin:20px;
+}
+h1{
+    color:white;
+}
+.box {
+    color: #fe33ac;
+    border-color: #fdcdea;
+  }
+  .box div {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+  

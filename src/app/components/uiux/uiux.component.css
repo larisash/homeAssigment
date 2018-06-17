@@ -1,0 +1,28 @@
+
+.container{
+    background-color: salmon;
+    height:100vh;
+    display: flex;
+    flex-direction:row;
+    padding:20px 20px 20px 45px;
+    justify-content:space-between;
+    
+}
+.iner-conatiner{
+    padding:20px;
+    width: 50vw;
+   
+    
+}
+.main{
+    margin:20px;
+   
+}
+h1{
+    color:white;
+}
+img{
+   height:40vh;
+   width:30vw;
+}
+  

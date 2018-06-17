@@ -1,0 +1,11 @@
+
+<carousel-component>
+    <div *ngFor= "let item of items" class="item-carousel {{item.bcgColor}}"> 
+        <img src="{{ item.imageLink }}">
+        <a routerLink="{{ item.link }}" routerLinkActive="active">
+            <h1>{{item.name}} <i class="{{item.icon}}"></i></h1>
+        </a>
+    </div>   
+</carousel-component>
+
+

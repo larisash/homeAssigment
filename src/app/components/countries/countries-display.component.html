@@ -1,0 +1,10 @@
+<div class="main-container">
+  <div class="container">
+    <div *ngFor="let contrey of countriesWithCites">
+      <div class="card">
+        <h2>{{contrey.countryName}}</h2>
+        <app-city-display *ngIf="contrey" [cities] = contrey.cities></app-city-display>
+      </div>
+    </div>
+  </div>
+</div>

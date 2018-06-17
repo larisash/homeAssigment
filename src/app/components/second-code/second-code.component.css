@@ -1,0 +1,21 @@
+
+.container{
+    background-color: salmon;
+    height:100vh;
+    
+}
+.iner-conatiner{
+    padding:30px;
+    width: 50%;
+}
+.main{
+    margin:20px;
+   
+}
+h1{
+    color:white;
+}
+img{
+    border-radius:10px;
+}
+  
